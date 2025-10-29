@@ -1,3 +1,5 @@
+<img width="1911" height="857" alt="image" src="https://github.com/user-attachments/assets/d4aa1fe7-36ec-481c-9428-3e8982620c8e" />
+
 # Projeto 3D - Landing Page
 
 Uma landing page com animações de scroll, integração de visualização 3D e layout responsivo.
@@ -34,5 +36,6 @@ Uma landing page com animações de scroll, integração de visualização 3D e 
 - As animações AOS são inicializadas com `AOS.init()` no final do `index.html`.
 - O componente `<spline-viewer>` é carregado via script `type="module"` e consome a URL da cena no atributo `url`.
 
-## Licença
-Defina a licença desejada (por exemplo, MIT) e adicione um arquivo `LICENSE` se aplicável.
+## Autor
+
+- Domingos Muratori.
